@@ -6,7 +6,7 @@ I am a software engineer specializing in frontend development based in New York 
 
 As a former music and special education teacher, I care about and work toward accessibility and ease of use in my applications, as well as innovative and divergent approaches to solving problems. I'm also passionte about uplifting other developers and sharing my knowledge.
 
-Outside of my professional pursuits, I enjoy music production, cooking, maintaining my indoor garden, and kung fu. I also have two pets, a tabby cat Milo, and a blue tongue skink Unity. (I made an app that just tells me what to feed Unity)[https://github.com/Adam-Thometz/Reptifeed] (the README has pictures of her!)
+Outside of my professional pursuits, I enjoy music production, cooking, maintaining my indoor garden, and kung fu. I also have two pets, a tabby cat Milo, and a blue tongue skink Unity. [I made an app that just tells me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed) (the README has pictures of her!)
 
 Connect with me:  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-thometz)
