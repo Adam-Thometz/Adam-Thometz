@@ -2,9 +2,9 @@
 
 ## About Me 
 
-I am a software engineer specializing in frontend development. I love building beautiful and functional web applications and learning more about frontend technology.
+I am a software engineer specializing in frontend development based in New York City. I love building beautiful and functional web applications and learning more about frontend technology.
 
-Before jumping into engineering, I taught music in a special education setting. I studied software engineering at Springboard under the guidence of a mentor while I worked under pandemic-related stressful conditions.
+Before jumping into engineering, I taught music in an elementary school for autistic students. I studied software engineering at Springboard under the guidence of a mentor while I worked under pandemic-related stressful conditions.
 
 Outside of my professional pursuits, I enjoy music production, cooking, maintaining my indoor garden, and kung fu.
 
