@@ -2,10 +2,20 @@
 
 ## About Me 
 
-I am a software engineer specializing in frontend development.
+I am a software engineer specializing in frontend development. I love building beautiful and functional web applications and learning more about frontend technology.
+
+Before jumping into engineering, I taught music in a special education setting. I studied software engineering at Springboard under the guidence of a mentor while I worked under pandemic-related stressful conditions.
+
+Outside of my professional pursuits, I enjoy music production, cooking, maintaining my indoor garden, and kung fu.
 
 Connect with me on LinkedIn:  
-![https://www.linkedin.com/in/adam-thometz](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-thometz)
+
+### Current pursuits:
+- Building Art Buddy ([see this repo](https://github.com/Adam-Thometz/Art-Buddy))
+- Maintaining Devs 4 Devs, a Slack-based community only for junior developers
+- Learning how to build my own frontend framework
+- Looking for full-time software engineering work
 
 ## Tech Stack
 
@@ -31,17 +41,6 @@ Connect with me on LinkedIn:
 ![heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=FFFFFF)
 ![josnwebtokens](https://img.shields.io/badge/JSON_WebTokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)
 
-<!--
-**Adam-Thometz/Adam-Thometz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Achievements
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mintbean Star** - awarded for placing in the top 5% of competitors in the Mintbean Hiring Hackathon in November 2021. [See the project here](https://github.com/Adam-Thometz/8-Bit-Clan)
