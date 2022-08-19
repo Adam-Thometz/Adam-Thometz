@@ -6,13 +6,13 @@ I am a software engineer specializing in frontend development based in New York 
 
 As a former music and special education teacher, I care about and work toward accessibility and ease of use in my applications, as well as innovative and divergent approaches to solving problems. I'm also passionte about uplifting other developers and sharing my knowledge.
 
-Outside of my professional pursuits, I enjoy music production, cooking, maintaining my indoor garden, and kung fu.
+Outside of my professional pursuits, I enjoy music production, cooking, maintaining my indoor garden, and kung fu. I also have two pets, a tabby cat Milo, and a blue tongue skink Unity. (I made an app that just tells me what to feed Unity)[https://github.com/Adam-Thometz/Reptifeed] (the README has pictures of her!)
 
 Connect with me:  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-thometz)
 
 Listen to my music:  
-[![soundclous](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/this-is-psychic-hamster)
+[![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/this-is-psychic-hamster)
 
 ### Current pursuits:
 - Building Art Buddy ([see this repo](https://github.com/Adam-Thometz/Art-Buddy))
