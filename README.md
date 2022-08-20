@@ -2,16 +2,24 @@
 
 ## About Me 
 
-I am a software engineer specializing in frontend development based in New York City. I love building beautiful and functional web applications and learning more about frontend and backend technologies.
+I am a software engineer specializing in frontend development based in New York City. I love building beautiful and functional web applications and learning more about different technologies.
 
-As a former music and special education teacher, I care about and work toward accessibility and ease of use in my applications, as well as creative and divergent approaches to solving problems. I'm also passionte about uplifting other developers and sharing my knowledge.  
+As a former music and special education teacher, I care about and work toward accessibility and ease of use in my applications, as well as creative and divergent approaches to solving problems. I'm also passionate about uplifting other developers and sharing my knowledge.  
 
-Outside of my professional pursuits, I enjoy music production, cooking, maintaining my indoor garden, and kung fu. I also have two pets, a tabby cat Milo, and a blue tongue skink Unity. [I made an app that just tells me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
+Outside of my professional pursuits, I enjoy...  
+🎶 music production  
+🥘 cooking  
+🪴 maintaining my indoor garden  
+👊🏼 kung fu  
+👾 video games  
+📈 playing the stock market  
+
+I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
 
 Connect with me:  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-thometz)
 
-Listen to my music:  
+My music:  
 [![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/this-is-psychic-hamster)
 
 ### Current pursuits:
