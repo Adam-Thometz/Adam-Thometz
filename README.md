@@ -6,7 +6,7 @@ I am a software engineer specializing in frontend development based in New York 
 
 As a former music and special education teacher, I care about and work toward accessibility and ease of use in my applications, as well as creative and divergent approaches to solving problems. I'm also passionte about uplifting other developers and sharing my knowledge.  
 
-Outside of my professional pursuits, I enjoy music production, cooking, maintaining my indoor garden, and kung fu. I also have two pets, a tabby cat Milo, and a blue tongue skink Unity. [I made an app that just tells me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed) (the README has pictures of her!)
+Outside of my professional pursuits, I enjoy music production, cooking, maintaining my indoor garden, and kung fu. I also have two pets, a tabby cat Milo, and a blue tongue skink Unity. [I made an app that just tells me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
 
 Connect with me:  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-thometz)
@@ -43,7 +43,6 @@ Listen to my music:
 ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![postgres](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=FFFFFF)
-![josnwebtokens](https://img.shields.io/badge/JSON_WebTokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)
 
 ## Achievements
 
