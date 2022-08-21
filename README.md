@@ -9,9 +9,10 @@ As a former music and special education teacher, I care about and work toward ac
 Outside of my professional pursuits, I enjoy...  
 🎶 music production  
 🥘 cooking  
-🪴 maintaining my indoor garden  
+🪴 plants  
 👊🏼 kung fu  
-👾 video games  
+🧘 meditation
+🎮 video games  
 📈 playing the stock market  
 
 I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
