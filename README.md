@@ -48,7 +48,6 @@ My music:
 ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![node](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![postgres](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=FFFFFF)
 
