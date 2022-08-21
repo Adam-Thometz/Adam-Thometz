@@ -11,7 +11,6 @@ Outside of my professional pursuits, I enjoy...
 🥘 cooking  
 🪴 plants  
 👊🏼 kung fu  
-🧘 meditation  
 🎮 video games  
 📈 playing the stock market  
 
