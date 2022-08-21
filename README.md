@@ -25,7 +25,7 @@ My music:
 ### Current pursuits:
 - Building Art Buddy ([see this repo](https://github.com/Adam-Thometz/Art-Buddy))
 - Maintaining Devs 4 Devs, a Slack-based community only for junior developers
-- Freelance work (currently waiting for the wireframe from the designer)
+- Freelance work
 - Learning how to build my own frontend framework
 - Looking for full-time software engineering work
 
