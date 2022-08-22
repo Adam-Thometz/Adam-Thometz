@@ -2,7 +2,7 @@
 
 ## About Me 
 
-I am a software engineer specializing in frontend development based in New York City. I love building beautiful and functional web applications and learning more about different technologies.
+I am a software engineer specializing in frontend development based in New York City (originally from Brooklyn, now in the Bronx). I love building beautiful and functional web applications and learning more about different technologies.
 
 As a former music and special education teacher, I care about and work toward accessibility and ease of use in my applications, as well as creative and divergent approaches to solving problems. I'm also passionate about uplifting other developers and sharing my knowledge.  
 
