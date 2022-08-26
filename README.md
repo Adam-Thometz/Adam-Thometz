@@ -25,7 +25,7 @@ Check me out elsewhere on the internet:
 - Building Art Buddy ([see this repo](https://github.com/Adam-Thometz/Art-Buddy))
 - Maintaining Devs 4 Devs, a Slack-based community only for junior developers
 - Freelance work
-- Learning how to build my own frontend framework
+- Learning Sonic Pi
 - Looking for full-time software engineering work
 
 ## Tech Stack
