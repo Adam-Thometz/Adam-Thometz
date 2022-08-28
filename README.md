@@ -7,7 +7,7 @@ I am a software engineer specializing in frontend development based in New York 
 As a former music and special education teacher, I care about and work toward accessibility and ease of use in my applications, as well as creative and divergent approaches to solving problems.  
 
 Outside of my professional pursuits, I enjoy...  
-🎶 *music production*: I've been playing music since I was a teen, mainly piano, synths, and messing around with Logic Pro. I like making electronic music that sounds like progressive rock. Learning Sonic Pi now that I can code.  
+🎶 *music production*: I've been playing music since I was a teen, mainly piano, synths, and messing around with Logic Pro. I like making electronic music that sounds like prog rock/metal. Learning Sonic Pi now that I can code.  
 🥘 *cooking*: Italian, Arab, Asian, burgers, vegan, you name it.  
 🪴 *gardening*: My fiancee and I grew a jungle in our apartment during lockdown. One of my goals is to create an app that tells me when to water my plants.  
 🥋 *martial arts*: I did tae kwon do in my teens and karate in my 20s. I switched to kung fu because I stopped enjoying the competitiveness of karate.  
