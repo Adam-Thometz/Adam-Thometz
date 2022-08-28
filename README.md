@@ -2,30 +2,29 @@
 
 ## About Me 
 
-I am a software engineer specializing in frontend development based in New York City (originally from Brooklyn, now in the Bronx). I love building beautiful and functional web applications and learning more about different technologies.
+I am a software engineer specializing in frontend development based in New York City (originally from Brooklyn, now in the Bronx). I love building beautiful and functional web applications and letting my creativity shine through code. I'm also passionate about uplifting other developers and sharing my knowledge.
 
-As a former music and special education teacher, I care about and work toward accessibility and ease of use in my applications, as well as creative and divergent approaches to solving problems. I'm also passionate about uplifting other developers and sharing my knowledge.  
+As a former music and special education teacher, I care about and work toward accessibility and ease of use in my applications, as well as creative and divergent approaches to solving problems.  
 
 Outside of my professional pursuits, I enjoy...  
-🎶 music production  
-🥘 cooking  
-🪴 plants  
-👊🏼 kung fu  
-🎮 video games  
-📈 playing the stock market  
+🎶 *music production*: I've been playing music since I was a teen, mainly piano, synths, and messing around with Logic Pro. I like making electronic music that sounds like progressive rock. Learning Sonic Pi now that I can code.  
+🥘 *cooking*: Italian, Arab, Asian, burgers, vegan, you name it.  
+🪴 *gardening*: My fiancee and I grew a jungle in our apartment during lockdown. One of my goals is to create an app that tells me when to water my plants.  
+🥋 *martial arts*: I did tae kwon do in my teens and karate in my 20s. I switched to kung fu because I stopped enjoying the competitiveness of karate.  
+🎮 *video games*: Just got a Nintendo Switch recently. Addicted to Super Smash Bros. Ultimate.  
+📈 *playing the stock market*: New hobby to explore financial literacy. I bought a few shares recently and I'm just sitting on them now  
 
 I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
 
-Check me out elsewhere on the internet:  
+### Internet Presence 
 [![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://adamthometz.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-thometz)
 [![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/this-is-psychic-hamster)
 
 ### Current pursuits:
 - Building Art Buddy ([see this repo](https://github.com/Adam-Thometz/Art-Buddy))
-- Maintaining Devs 4 Devs, a Slack-based community only for junior developers
+- Maintaining Devs 4 Devs, a Slack-based community only for junior developers ([fill out this form if you'd like to join.](https://forms.gle/75NJzYQcYc94V7Jz9) We have regular meetups!)
 - Freelance work
-- Learning Sonic Pi
 - Looking for full-time software engineering work
 
 ## Tech Stack
