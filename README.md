@@ -12,7 +12,7 @@ Outside of my professional pursuits, I enjoy...
 🪴 *gardening*: My fiancee and I grew a jungle in our apartment during lockdown. One of my goals is to create an app that tells me when to water my plants.  
 🥋 *martial arts*: I did tae kwon do in my teens and karate in my 20s. I switched to kung fu because I stopped enjoying the competitiveness of karate.  
 🎮 *video games*: Just got a Nintendo Switch recently. Addicted to Super Smash Bros. Ultimate.  
-📈 *playing the stock market*: New hobby to explore financial literacy. I bought a few shares recently and I'm just sitting on them now  
+📈 *playing the stock market*: New hobby to boost my financial IQ. I bought a few shares recently and I'm just sitting on them now  
 
 I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
 
