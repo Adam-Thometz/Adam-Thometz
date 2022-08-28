@@ -55,4 +55,4 @@ I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpos
 
 ## Music I Get Inspiration From
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/7rTsGPUXgumsOEio73703O?si=95c85e0f183149a0)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lzsso6bzdezax2rajyxmg7j7m&cover_image=true&theme=default)](https://open.spotify.com/playlist/7rTsGPUXgumsOEio73703O?si=f7e753985ed246be)
