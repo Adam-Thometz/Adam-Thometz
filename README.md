@@ -53,6 +53,4 @@ I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpos
 
 **Mintbean Star** - awarded for placing in the top 5% of competitors in the Mintbean Hiring Hackathon in November 2021. [See the project here](https://github.com/Adam-Thometz/8-Bit-Clan)
 
-## Music I Get Inspiration From
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lzsso6bzdezax2rajyxmg7j7m&cover_image=true&theme=default)](https://open.spotify.com/playlist/7rTsGPUXgumsOEio73703O?si=f7e753985ed246be)
+## [Music I Get Inspiration From](https://open.spotify.com/playlist/7rTsGPUXgumsOEio73703O?si=f7e753985ed246be)
