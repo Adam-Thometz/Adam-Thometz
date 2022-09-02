@@ -1,5 +1,4 @@
 # Hi, I'm Adam 👋  
-![](https://komarev.com/ghpvc/?username=Adam-Thometz&color=2d03ff)
 
 ## About Me 
 
