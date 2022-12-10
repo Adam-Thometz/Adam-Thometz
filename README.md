@@ -10,7 +10,6 @@ Outside of my professional pursuits, I enjoy...
 🪴 *gardening*  
 🥋 *martial arts*  
 🎮 *video games*  
-📈 *playing the stock market*  
 
 I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
 
@@ -21,7 +20,6 @@ I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpos
 
 ### Current pursuits:
 - Building Art Buddy ([see this repo](https://github.com/Adam-Thometz/Art-Buddy))
-- Maintaining Devs 4 Devs, a Slack-based community only for junior developers ([fill out this form if you'd like to join.](https://forms.gle/75NJzYQcYc94V7Jz9) We have regular meetups!)
 - Building a website for a local psychotherapist ([see this repo](https://github.com/Adam-Thometz/Cosmic-Healing))
 - Looking for full-time software engineering work
 
