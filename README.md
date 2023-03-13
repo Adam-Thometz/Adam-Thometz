@@ -16,12 +16,12 @@ I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpos
 ### Internet Presence 
 [![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://adamthometz.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-thometz)
-[![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/this-is-psychic-hamster)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnEEg3thfP-9hXbKPA__58g)
+[![soundcloud](https://img.shields.io/badge/SoundCloud-FF9533?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/this-is-teslas-ghost)
 
 ### Current pursuits:
 - Building Art Buddy ([see this repo](https://github.com/Adam-Thometz/Art-Buddy))
-- Building a website for a local psychotherapist ([see this repo](https://github.com/Adam-Thometz/Cosmic-Healing))
-- Looking for full-time software engineering work
+- Volunteer frontend for [8Billionminds](https://8billionminds.com/)
 
 ## Tech Stack
 
