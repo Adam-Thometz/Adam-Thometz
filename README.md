@@ -8,12 +8,12 @@ Outside of my professional pursuits, I enjoy...
 🎶 *music production*  
 🥘 *cooking*  
 🪴 *gardening*  
-🥋 *martial arts*  
+🧘 *meditation*  
 
 I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
 
 ### Internet Presence 
-[![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://adamthometz.com)
+[![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://www.adamthometz.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-thometz)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnEEg3thfP-9hXbKPA__58g)
 [![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/this-is-teslas-ghost)
@@ -42,6 +42,7 @@ I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpos
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=FFFFFF)
+![django](https://img.shields.io/badge/fastapi-029586?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
 ![node](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![express](https://img.shields.io/badge/express-404D59?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![jest](https://img.shields.io/badge/jest-323330?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
