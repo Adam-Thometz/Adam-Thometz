@@ -19,6 +19,7 @@ I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpos
 [![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/this-is-teslas-ghost)
 
 ### Current pursuits:
+- Building v1 of the AI Assistant for [TARA](https://www.tarateachers.com/)
 - Building Art Buddy ([see this repo](https://github.com/Adam-Thometz/Art-Buddy))
 - Volunteer frontend for [8Billionminds](https://8billionminds.com/)
 
@@ -40,6 +41,7 @@ I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpos
 
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=FFFFFF)
 ![node](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![express](https://img.shields.io/badge/express-404D59?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![jest](https://img.shields.io/badge/jest-323330?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
