@@ -9,6 +9,8 @@ Outside of my professional pursuits, I enjoy...
 🥘 *cooking*  
 🪴 *gardening*  
 🧘 *meditation*  
+🥋 *kung fu*  
+🗣 *languages (currently on Spanish and Arabic)*
 
 I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
 
