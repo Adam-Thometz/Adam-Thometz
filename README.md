@@ -18,12 +18,7 @@ I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpos
 [![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://www.adamthometz.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adam-thometz)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnEEg3thfP-9hXbKPA__58g)
-[![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/this-is-teslas-ghost)
-
-### Current pursuits:
-- Building v1 of the AI Assistant for [TARA](https://www.tarateachers.com/)
-- Building Art Buddy ([see this repo](https://github.com/Adam-Thometz/Art-Buddy))
-- Volunteer frontend for [8Billionminds](https://8billionminds.com/)
+[![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=f
 
 ## Tech Stack
 
