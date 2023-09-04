@@ -2,7 +2,14 @@
 
 ## About Me 
 
-I am a full-stack developer based in New York City (originally from Brooklyn, now in the Bronx). I'm passionate about exploring use cases for AI in app development. Currently exploring OpenAI's APIs and Python's Autogluon library.
+I am a full-stack developer based in New York City (originally from Brooklyn, now in the Bronx). Some of my technical experience includes the following:
+- integrating generative AI into existing products using Python
+- implementing pixel-perfect designs from Figma using React
+- having music play in the browser according to user input using Tone.js
+- creating software prototypes in Vue
+- creating static and dynamic CSS animations
+- creating custom APIs using Node/Express
+- writing unit, integration, and UI tests using Jest and React Testing Library
 
 Outside of my professional pursuits, I enjoy...  
 🎶 *music production*  
@@ -10,7 +17,7 @@ Outside of my professional pursuits, I enjoy...
 🪴 *gardening*  
 🧘 *meditation*  
 🥋 *kung fu*  
-🗣 *languages (currently on Spanish and Arabic)*
+🗣 *foreign languages (currently on Spanish and Arabic)*
 
 I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
 
