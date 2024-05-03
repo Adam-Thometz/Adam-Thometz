@@ -4,22 +4,22 @@
 
 I am a full-stack developer based in New York City (originally from Brooklyn, now in the Bronx). Some of my technical experience includes the following:
 - integrating generative AI into existing products using Python
-- implementing pixel-perfect designs from Figma using React
-- having music play in the browser according to user input using Tone.js
+- implementing pixel-perfect designs from Figma using React, Next.js, and Tailwind
+- playing music in the browser according to user input using Tone.js and Web Audio API
 - creating software prototypes in Vue
-- creating static and dynamic CSS animations
+- creating static and dynamic animations using CSS and Javascript
 - creating custom APIs using Node/Express
 - writing unit, integration, and UI tests using Jest and React Testing Library
+
+My favorite coding pastime is building custom visualizations for music. [Here's my first one](https://www.adamthometz.com/acceptance-cave) and [here's my latest](https://www.adamthometz.com/passing), both of which use original music. It's an art I'm working to perfect.  
 
 Outside of my professional pursuits, I enjoy...  
 🎶 *music production*  
 🥘 *cooking*  
-🪴 *gardening*  
-🧘 *meditation*  
+📖 *reading novels*  
 🥋 *kung fu*  
-🗣 *foreign languages (currently on Spanish and Arabic)*
 
-I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
+I also have two pets, 🐈 Milo and 🦎 Unity. [I made a full stack app whose sole purpose is to tell me what to feed Unity](https://github.com/Adam-Thometz/Reptifeed)
 
 ### Internet Presence 
 [![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://www.adamthometz.com)
@@ -34,11 +34,12 @@ I also have two pets, 🐈 Milo and 🦎 Unity. [I made an app whose sole purpos
 ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
+![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=ffffff)
+![tailwind](https://img.shields.io/badge/tailwind-0c142c?style=for-the-badge&logo=Tailwindcss&logoColor=38bdf9)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
 ![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
 ![vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![rtl](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
-![jss](https://img.shields.io/badge/jss-F7DF1E?style=for-the-badge&logo=jss&logoColor=FFFFFF)
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
 
 ### Backend
