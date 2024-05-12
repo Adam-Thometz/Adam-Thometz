@@ -13,7 +13,9 @@ I am a full-stack developer based in New York City (originally from Brooklyn, no
 
 My favorite coding pastime is building custom visualizations for music. [Here's my first one](https://www.adamthometz.com/acceptance-cave) and [here's my latest](https://www.adamthometz.com/passing), both of which use original music. It's an art I'm working to perfect.  
 
-Outside of my professional pursuits, I enjoy...  
+I also like making Youtube videos about frontend dev, AI, creative coding, and software best practices
+
+Outside of my coding/professional pursuits, I enjoy...  
 🎶 *music production*  
 🥘 *cooking*  
 📖 *reading novels*  
